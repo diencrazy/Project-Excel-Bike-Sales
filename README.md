@@ -10,4 +10,9 @@ Phân tích cho thấy khoảng cách đi lại (Commute Distance) là yếu t�
 * Khuyến nghị: Tập trung chiến dịch tiếp thị vào đối tượng sống gần nơi làm việc hoặc trong khu vực đô thị.
 ## 📁 Cấu trúc File (Repository Files)
 Dự án được xây dựng trong một file Excel duy nhất (Excel Project Dataset.xlsx) với các sheet sau:
-
+|Tên Sheet|Mô tả|
+|---------|-----|
+|bike_buyers|Dữ liệu thô ban đầu|
+|Working Sheet|Dữ liệu đã được xử lý, làm sạch và thêm trường Age Brackets (Phân nhóm độ tuổi).|
+|Pivot Table|Chứa các Pivot Table đã tạo để tính toán và tổng hợp số liệu (Income, Commute Distance, Age).|
+|Dashboard|Sheet chứa Dashboard cuối cùng, trình bày trực quan kết quả.|
