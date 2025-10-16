@@ -8,6 +8,6 @@ Phân tích cho thấy khoảng cách đi lại (Commute Distance) là yếu t�
 * Tỷ lệ mua xe cao nhất tập trung ở nhóm khách hàng có khoảng cách đi lại ngắn nhất (0-1 Miles) (207 lượt mua).
 * Điều này cho thấy nhu cầu mua xe đạp chủ yếu là để đi lại trong cự ly ngắn, tiện lợi trong thành phố hoặc khu vực lân cận.
 * Khuyến nghị: Tập trung chiến dịch tiếp thị vào đối tượng sống gần nơi làm việc hoặc trong khu vực đô thị.
-
-
+## 📁 Cấu trúc File (Repository Files)
+Dự án được xây dựng trong một file Excel duy nhất (Excel Project Dataset.xlsx) với các sheet sau:
 
